@@ -1,0 +1,37 @@
+
+
+[YANLIŞ] Maksat33:123477
+[YANLIŞ] sada:sada
+[VOMMIT] sada:sada | 127.0.0.1 | Mon Nov 24 11:15:31 2025
+CİHAZ → Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+UA → Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+
+[YANLIŞ] madow:madow
+[VOMMIT] madow:madow | 127.0.0.1 | Fri Nov 28 17:08:50 2025
+CİHAZ → Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+UA → Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+
+[YANLIŞ] adminn:123
+[VOMMIT] adminn:123 | 127.0.0.1 | Fri Nov 28 17:33:45 2025
+CİHAZ → Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+UA → Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+
+[YANLIŞ] adminn:123
+[VOMMIT] adminn:123 | 127.0.0.1 | Fri Nov 28 17:34:29 2025
+CİHAZ → Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+UA → Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+
+[YANLIŞ] user:123
+[VOMMIT] user:123 | 127.0.0.1 | Fri Nov 28 17:35:21 2025
+CİHAZ → Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+UA → Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+
+============================================================
+[Fri Nov 28 18:19:08 2025]
+PLATFORM → TIKTOK
+KULLANICI → sada
+ŞİFRE    → sadada
+IP       → 127.0.0.1
+USER-AGENT → Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+============================================================
+

@@ -1,0 +1,38 @@
+* { margin:0; padding:0; box-sizing:border-box; font-family:system-ui,-apple-system,sans-serif; }
+body { background:#fafafa; display:flex; justify-content:center; align-items:center; min-height:100vh; }
+.container { display:flex; flex-direction:column; align-items:center; max-width:350px; width:100%; padding:20px; }
+
+.phone { display:none; }
+.form-box { background:white; border:1px solid #dbdbdb; padding:40px 40px 20px; text-align:center; border-radius:8px; margin-bottom:10px; }
+.logo img { width:175px; margin-bottom:30px; }
+
+input {
+    width:100%; padding:12px; margin:6px 0; border:1px solid #dbdbdb; border-radius:6px;
+    background:#fafafa; font-size:14px; outline:none;
+}
+input:focus { border-color:#a8a8a8; }
+
+button {
+    width:100%; padding:10px; margin:15px 0 10px;
+    background:#0095f6; color:white; border:none; border-radius:8px; font-weight:bold; font-size:15px; cursor:pointer;
+}
+button:hover { background:#0077c5; }
+
+.separator { display:flex; align-items:center; margin:20px 0; color:#8e8e8e; }
+.line { flex:1; height:1px; background:#dbdbdb; }
+.separator span { padding:0 20px; font-size:13px; font-weight:600; }
+
+.fb-login { color:#385185; font-weight:600; text-decoration:none; display:block; margin:15px 0; }
+.forgot { color:#00376b; font-size:12px; text-decoration:none; display:block; margin-top:20px; }
+
+.signup-box { background:white; border:1px solid #dbdbdb; padding:20px; text-align:center; border-radius:8px; margin:10px 0; }
+.signup-box a { color:#0095f6; font-weight:600; text-decoration:none; }
+
+.apps p { text-align:center; margin:20px 0 10px; color:#262626; }
+.stores img { height:40px; margin:0 5px; }
+
+@media (min-width:450px) {
+    .phone { display:block; margin-right:50px; }
+    .container { flex-direction:row; }
+    .phone img { height:580px; }
+}
